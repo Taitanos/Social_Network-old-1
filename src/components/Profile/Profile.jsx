@@ -4,10 +4,10 @@ import MyPost from "./MyPost/MyPost";
 
 const Profile = () => {
     return (
-        <div className={s.content}>
+        <div>
             <div>
                 <img
-                    src='https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/advice/maps-satellite-images/satellite-image-of-globe.jpg'
+                    src='https://bipbap.ru/wp-content/uploads/2017/04/0_7c779_5df17311_orig.jpg'
                     alt={"pictures"}/>
             </div>
             <div>
