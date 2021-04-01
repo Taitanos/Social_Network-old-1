@@ -5,11 +5,11 @@ const Post = (props) => {
     return (
         <div className={s.item}>
             <img src={"https://proslang.ru/wp-content/uploads/2019/03/avatarka_1-300x300.jpg"} alt={"avatars"}/>
-            { props.message }
+            {props.message}
             <div>
-                <span>Like</span>
-                <span>Retweet</span>
-                <span>Comments</span>
+                <span>Like</span> {props.likesCount}
+                <span> Retweet</span> {props.retweet}
+                <span> Comments</span> {props.comments}
             </div>
         </div>
     )

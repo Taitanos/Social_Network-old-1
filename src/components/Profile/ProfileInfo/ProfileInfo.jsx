@@ -6,7 +6,7 @@ const ProfileInfo = () => {
         <div>
             <div>
                 <img
-                    src='https://bipbap.ru/wp-content/uploads/2017/04/0_7c779_5df17311_orig.jpg'
+                    src='https://aboutandroid.ru/wp-content/uploads/2015/06/%D0%9C%D0%BE%D1%80%D0%B5-7.jpg'
                     alt={"pictures"}/>
             </div>
             <div className={s.descriptionBlock}>
