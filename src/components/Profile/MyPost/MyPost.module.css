@@ -1,7 +1,11 @@
 .posts {
+    margin-top: 10px;
     color: chocolate;
 }
 .content img {
     width: 80%;
     height: 45%;
+}
+.postsBlock {
+    padding: 10px;
 }
